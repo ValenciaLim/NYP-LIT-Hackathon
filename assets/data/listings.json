@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "transactionType": "Sales",
+        "address": "226F Ang Mo Kio Ave 1",
+        "price": "S$328,000",
+        "district": 20,
+        "floor": "Low Floor",
+        "type": "HDB",
+        "bed": 2,
+        "bath": 1,
+        "sqft": 710,
+        "psf": "S$461.97",
+        "cover": "https://pic.99.co/v3/LceSjpXsTpshnmRpVxDLdS?width=740&mode=fill&text=LIM+HUI+JUN+JASMINE&sampling=lanczos&quality=80&version=1&signature=119bc0dde83c8560fbf25e4cd997a4b3c2d3f708&height=420"
+    },
+    {
+        "id": 2,
+        "transactionType": "Sales",
+        "address": "588C Ang Mo Kio Street 52",
+        "price": "S$950,000",
+        "district": 20,
+        "floor": "Mid Floor",
+        "type": "HDB",
+        "bed": 3,
+        "bath": 2,
+        "sqft": 1206,
+        "psf": "S$787.73",
+        "cover": "https://pic.99.co/v3/eHkitdghre732QxwahbycV?width=740&mode=fill&text=LIM+HUI+JUN+JASMINE&sampling=lanczos&quality=80&version=1&signature=b5bab3e4e4ee8220dc39c6aec35cff19851af9d1&height=420"
+    },
+    {
+        "id": 3,
+        "transactionType": "Sales",
+        "address": "Ecopolitan (Punggol Walk)",
+        "price": "S$1,280,000",
+        "district": 19,
+        "floor": "Ground Floor",
+        "type": "Executive Condo",
+        "bed": 3,
+        "bath": 3,
+        "sqft": 1098,
+        "psf": "S$1,165.76",
+        "cover": "https://pic.99.co/v3/SVTYfBzcYUYvnZ8xxe3jxf?width=740&mode=fill&text=LIM+HUI+JUN+JASMINE&sampling=lanczos&quality=80&version=1&signature=fda13c1b3680b902f5488e7d2dfd2c59b52e6c2a&height=420"
+    }
+]
